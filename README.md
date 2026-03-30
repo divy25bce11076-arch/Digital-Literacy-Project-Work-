@@ -60,7 +60,7 @@ Set up professional profiles on three platforms:
 Platform	Profile Link	Purpose
 GitHub	(https://github.com/divy25bce11076-arch/Digital-Literacy-Project-Work-)	Code portfolio, projects, open source
 LinkedIn	(https://www.linkedin.com/in/divy-patel-ab77b73bb/)	Professional networking, placements
-Kaggle	[(https://www.kaggle.com/)	Data science, ML competitions
+Kaggle	[(https://www.kaggle.com/divypatel9677)	Data science, ML competitions
 GitHub Profile README highlights:
 
  Hi, I'm Divy Patel
